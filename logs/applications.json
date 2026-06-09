@@ -1,0 +1,255 @@
+{
+  "run_at": "2026-03-20T22:35:35.180299",
+  "total": 20,
+  "applied": 0,
+  "skipped": 20,
+  "failed": 0,
+  "results": [
+    {
+      "title": "Hardware And Embedded Firmware",
+      "company": "Sujan Industries\n\nActively hiring",
+      "link": "https://internshala.com/internship/detail/hardware-and-embedded-firmware-internship-in-pune-at-sujan-industries1772015884",
+      "status": "skipped",
+      "reason": "--scrape-only mode; not applied.",
+      "score": 38.1,
+      "matched_skills": [
+        "git",
+        "ml"
+      ],
+      "timestamp": "2026-03-20T22:35:35"
+    },
+    {
+      "title": "Jewellery Design And Production Intern",
+      "company": "Mrinmai Arun\n\nActively hiring",
+      "link": "https://internshala.com/internship/detail/jewellery-design-and-production-intern-internship-in-chennai-at-mrinmai-arun1771236059",
+      "status": "skipped",
+      "reason": "--scrape-only mode; not applied.",
+      "score": 0.0,
+      "matched_skills": [],
+      "timestamp": "2026-03-20T22:35:35"
+    },
+    {
+      "title": "Sales & Growth Marketing Intern",
+      "company": "Mentoria\n\nActively hiring",
+      "link": "https://internshala.com/internship/detail/work-from-home-sales-growth-marketing-intern-internship-at-mentoria1771573559",
+      "status": "skipped",
+      "reason": "--scrape-only mode; not applied.",
+      "score": 52.5,
+      "matched_skills": [
+        "git"
+      ],
+      "timestamp": "2026-03-20T22:35:35"
+    },
+    {
+      "title": "Fashion Communication Intern – Digital Marketing",
+      "company": "BrandItUp\n\nActively hiring",
+      "link": "https://internshala.com/internship/detail/brand-management-internship-in-mohali-at-branditup1773987491",
+      "status": "skipped",
+      "reason": "--scrape-only mode; not applied.",
+      "score": 52.5,
+      "matched_skills": [
+        "git"
+      ],
+      "timestamp": "2026-03-20T22:35:35"
+    },
+    {
+      "title": "AI Video Generation And Content Creation Intern",
+      "company": "Be Rolling Media\n\nActively hiring",
+      "link": "https://internshala.com/internship/detail/ai-video-generation-and-content-creation-intern-internship-in-delhi-at-be-rolling-media1772528966",
+      "status": "skipped",
+      "reason": "--scrape-only mode; not applied.",
+      "score": 52.5,
+      "matched_skills": [
+        "ml"
+      ],
+      "timestamp": "2026-03-20T22:35:35"
+    },
+    {
+      "title": "Guest Delight Intern",
+      "company": "Atlys India Private Limited\n\nActively hiring",
+      "link": "https://internshala.com/internship/detail/guest-delight-intern-internship-in-multiple-locations-at-atlys-india-private-limited1772211608",
+      "status": "skipped",
+      "reason": "--scrape-only mode; not applied.",
+      "score": 52.5,
+      "matched_skills": [
+        "git"
+      ],
+      "timestamp": "2026-03-20T22:35:35"
+    },
+    {
+      "title": "Frontend Engineer Intern",
+      "company": "InLabels",
+      "link": "https://internshala.com/internship/detail/work-from-home-frontend-engineer-intern-internship-at-inlabels1773137647",
+      "status": "skipped",
+      "reason": "--scrape-only mode; not applied.",
+      "score": 0.0,
+      "matched_skills": [],
+      "timestamp": "2026-03-20T22:35:35"
+    },
+    {
+      "title": "Frontend Developer Intern ( Remote)",
+      "company": "AI Startup Impact",
+      "link": "https://internshala.com/internship/detail/frontend-developer-intern--remote-internship-in-bangalore-at-ai-startup-impact1774003869",
+      "status": "skipped",
+      "reason": "--scrape-only mode; not applied.",
+      "score": 0.0,
+      "matched_skills": [],
+      "timestamp": "2026-03-20T22:35:35"
+    },
+    {
+      "title": "Frontend Designer Intern (Shopify)",
+      "company": "Open Limits",
+      "link": "https://internshala.com/internship/detail/work-from-home-frontend-designer-intern-shopify-internship-at-open-limits1773915246",
+      "status": "skipped",
+      "reason": "--scrape-only mode; not applied.",
+      "score": 55.0,
+      "matched_skills": [
+        "figma",
+        "git"
+      ],
+      "timestamp": "2026-03-20T22:35:35"
+    },
+    {
+      "title": "Intern",
+      "company": "Healyourlifewthkash & HellDhabit",
+      "link": "https://internshala.com/internship/detail/work-from-home-intern-internship-at-healyourlifewthkash-helldhabit1773913925",
+      "status": "skipped",
+      "reason": "--scrape-only mode; not applied.",
+      "score": 52.5,
+      "matched_skills": [
+        "git"
+      ],
+      "timestamp": "2026-03-20T22:35:35"
+    },
+    {
+      "title": "Frontend Developer",
+      "company": "Conversely\n\nActively hiring",
+      "link": "https://internshala.com/internship/detail/frontend-developer-internship-in-delhi-at-conversely1773489374",
+      "status": "skipped",
+      "reason": "--scrape-only mode; not applied.",
+      "score": 46.38,
+      "matched_skills": [
+        "css",
+        "git",
+        "html",
+        "javascript",
+        "node",
+        "react"
+      ],
+      "timestamp": "2026-03-20T22:35:35"
+    },
+    {
+      "title": "Frontend Web Developer",
+      "company": "TSTEPS PRIVATE LIMITED\n\nActively hiring",
+      "link": "https://internshala.com/internship/detail/frontend-web-developer-internship-in-multiple-locations-at-tsteps-private-limited1772686716",
+      "status": "skipped",
+      "reason": "--scrape-only mode; not applied.",
+      "score": 51.14,
+      "matched_skills": [
+        "css",
+        "git",
+        "html",
+        "javascript",
+        "node",
+        "react"
+      ],
+      "timestamp": "2026-03-20T22:35:35"
+    },
+    {
+      "title": "Frontend Developer (WordPress)",
+      "company": "Opvia.in",
+      "link": "https://internshala.com/internship/detail/frontend-developer-wordpress-internship-in-kolkata-at-opviain1773295080",
+      "status": "skipped",
+      "reason": "--scrape-only mode; not applied.",
+      "score": 49.52,
+      "matched_skills": [
+        "css",
+        "figma",
+        "html",
+        "javascript"
+      ],
+      "timestamp": "2026-03-20T22:35:35"
+    },
+    {
+      "title": "sales Intern",
+      "company": "PlusWealth Capital Management LLP",
+      "link": "https://internshala.com/internship/detail/work-from-home-sales-intern-internship-at-pluswealth-capital-management-llp1774004288",
+      "status": "skipped",
+      "reason": "--scrape-only mode; not applied.",
+      "score": 52.5,
+      "matched_skills": [
+        "git"
+      ],
+      "timestamp": "2026-03-20T22:35:35"
+    },
+    {
+      "title": "Backoffice Intern",
+      "company": "Artha Bharat Investment Managers IFSC LLP",
+      "link": "https://internshala.com/internship/detail/work-from-home-backoffice-intern-internship-at-artha-bharat-investment-managers-ifsc-llp1774003447",
+      "status": "skipped",
+      "reason": "--scrape-only mode; not applied.",
+      "score": 50.0,
+      "matched_skills": [],
+      "timestamp": "2026-03-20T22:35:35"
+    },
+    {
+      "title": "Youtube Intern",
+      "company": "Grip Invest",
+      "link": "https://internshala.com/internship/detail/work-from-home-youtube-intern-internship-at-grip-invest1774002248",
+      "status": "skipped",
+      "reason": "--scrape-only mode; not applied.",
+      "score": 52.5,
+      "matched_skills": [
+        "git"
+      ],
+      "timestamp": "2026-03-20T22:35:35"
+    },
+    {
+      "title": "sales Intern",
+      "company": "Hectae Analytics And Software Solutions",
+      "link": "https://internshala.com/internship/detail/work-from-home-sales-intern-internship-at-hectae-analytics-and-software-solutions1773917714",
+      "status": "skipped",
+      "reason": "--scrape-only mode; not applied.",
+      "score": 52.5,
+      "matched_skills": [
+        "git"
+      ],
+      "timestamp": "2026-03-20T22:35:35"
+    },
+    {
+      "title": "Growth Intern",
+      "company": "Doodli AI",
+      "link": "https://internshala.com/internship/detail/work-from-home-growth-intern-internship-at-doodli-ai1773917709",
+      "status": "skipped",
+      "reason": "--scrape-only mode; not applied.",
+      "score": 52.5,
+      "matched_skills": [
+        "git"
+      ],
+      "timestamp": "2026-03-20T22:35:35"
+    },
+    {
+      "title": "sales Intern",
+      "company": "BiteSpeed",
+      "link": "https://internshala.com/internship/detail/work-from-home-sales-intern-internship-at-bitespeed1773916925",
+      "status": "skipped",
+      "reason": "--scrape-only mode; not applied.",
+      "score": 55.0,
+      "matched_skills": [
+        "git",
+        "sql"
+      ],
+      "timestamp": "2026-03-20T22:35:35"
+    },
+    {
+      "title": "Management Intern",
+      "company": "Pan HR Solution Limited",
+      "link": "https://internshala.com/internship/detail/work-from-home-management-intern-internship-at-pan-hr-solution-limited1773913508",
+      "status": "skipped",
+      "reason": "--scrape-only mode; not applied.",
+      "score": 50.0,
+      "matched_skills": [],
+      "timestamp": "2026-03-20T22:35:35"
+    }
+  ]
+}

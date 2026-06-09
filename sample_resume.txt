@@ -1,0 +1,32 @@
+JOHN DOE
+john.doe@email.com | +91-9876543210 | github.com/johndoe
+
+EDUCATION
+B.Tech in Computer Science — XYZ University (2022–2026)   CGPA: 8.6/10
+
+SKILLS
+Languages   : Python, JavaScript, TypeScript, HTML, CSS, SQL
+Frameworks  : React, Node.js, Express.js, Django, Flask
+Databases   : MongoDB, PostgreSQL, MySQL
+Tools       : Git, GitHub, Docker, Linux, Figma
+Concepts    : Machine Learning, Data Analysis, REST APIs, Agile, Scrum
+
+PROJECTS
+1. E-Commerce Platform (React + Node.js + MongoDB)
+   • Full-stack app with JWT auth, Stripe payments, admin dashboard
+   • Deployed on AWS EC2 with Nginx
+
+2. ML Stock Predictor (Python, Scikit-learn, Pandas, Matplotlib)
+   • LSTM model; 82% directional accuracy on NSE data
+
+3. Portfolio Website (HTML, CSS, JavaScript, Figma)
+
+EXPERIENCE
+Web Dev Intern — ABC Startup (Jun–Aug 2024)
+• Built React components; reduced page load by 30%
+• Python / Django REST Framework data-export APIs
+
+CERTIFICATIONS
+• The Odin Project — Full Stack JavaScript
+• Coursera Deep Learning Specialization (Andrew Ng)
+• HackerRank Python Gold Badge
